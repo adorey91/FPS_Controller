@@ -53,8 +53,7 @@ public class FPS_Controller : MonoBehaviour
         {
             Application.Quit();
             Debug.Log("Quitting Application");
-        }
-        
+        }        
     }
 
     void handleJump()
